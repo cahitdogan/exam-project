@@ -29,7 +29,7 @@ export default function App() {
 
         let i = 0;
         for (const answer in answers) {
-            if (answers[answer].answer === questions[i].answer) {
+            if (answers[answer].answer.toLowerCase() === questions[i].answer) {
                 numberOfCorrect++;
                 answers[answer].accuracy = "correct";
             } else {
