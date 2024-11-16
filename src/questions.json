@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "question": "C# ve TypeScript dillerinin öncüsü kimdir?",
+            "answer": "anders hejlsberg" 
+        },
+        {
+            "question": "JavaScript kaç yılında geliştirilmiştir?",
+            "answer": "1995" 
+        },
+        {
+            "question": "Google tarafından geliştirilen; mobil, web, Windows, Mac platformlarında uygulamalar geliştirmek için kullanılan açık kaynaklı UI yazılım geliştirme kitinin adı nedir?",
+            "answer": "flutter" 
+        }
+    ]
+}
